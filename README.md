@@ -1,4 +1,4 @@
-# Generative AI Bangla Bootcamp Schedule
+# Generative AI Full Course Bootcamp Schedule
 
 ## Week 1: Foundations
 
